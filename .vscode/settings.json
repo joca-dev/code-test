@@ -1,0 +1,37 @@
+{
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/CVS": true,
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/.vscode": true,
+    "yarn.lock": true,
+    ".eslintcache": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#000f33",
+    "activityBar.activeBorder": "#dddddd",
+    "activityBar.background": "#525fff",
+    "activityBar.border": "#525fff",
+    "activityBar.foreground": "#dddddd",
+    "activityBar.inactiveForeground": "#ffffff",
+
+    "activityBarBadge.background": "#ffffff",
+    "activityBarBadge.foreground": "#000f33",
+
+    "badge.background": "#525fff",
+    "badge.foreground": "#dddddd",
+
+    "statusBar.background": "#525fff",
+    "statusBar.foreground": "#dddddd",
+    "statusBarItem.hoverBackground": "#000f33",
+    "statusBarItem.remoteBackground": "#dddddd",
+
+    "tab.activeBackground": "#333333",
+    "tab.activeBorderTop": "#dddddd",
+    "tab.activeForeground": "#dddddd",
+    "tab.activeBorder": "#dddddd"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
